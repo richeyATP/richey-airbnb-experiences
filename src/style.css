@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+nav {
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  padding: 20px 36px;
+  box-shadow: 0px 2.3px 7.7px rgba(0, 0, 0, 0.1);
+}
